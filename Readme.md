@@ -6,3 +6,6 @@
 Курс: Ozon Frontend
 
 поток: 2
+
+## preview
+[![preview](preview.jpg "preview")](https://kishinskiy.github.io/OzonJournal/)

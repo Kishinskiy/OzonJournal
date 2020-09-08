@@ -105,6 +105,15 @@ body {
   padding: 20px;
 }
 
+.card_body a {
+  text-decoration: none;
+  color: black;
+}
+
+.card_body a:hover {
+  color: blue;
+}
+
 .avatar {
   width: 20px;
 }
@@ -129,6 +138,30 @@ body {
 .card_btn i {
   padding-right: 10px;
   color: grey;
+}
+
+.blog {
+  margin-top: 40px;
+}
+.blog_content {
+  display: flex;
+  flex-direction: column;
+}
+
+.blog_content img {
+  object-fit: cover;
+}
+
+.author {
+  margin-top: 20px;
+  display: flex;
+}
+.author img {
+  height: 20px;
+}
+
+.blog h1, p {
+  margin-top: 20px;
 }
 
 footer {
